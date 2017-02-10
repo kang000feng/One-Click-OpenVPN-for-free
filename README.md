@@ -3,15 +3,14 @@
 In today's society, security and privacy is a problem when you are at public areas like airports, coffee shops, hotels, censored countries(China,etc) in the world, or any location that offers free public WiFi. Outsiders can monitor internet traffic between your computer and the web. OpenVPN is an open source application that implements a virtual private network, which will create a secure connection between you and your remote destination (website or server). This tutorial will show you how to quickly install and setup OpenVPN .
 
 
-Step 1:  Create free account in Vultr , Click here: http://www.vultr.com
+Step 1:  Create free account in Vultr , Click here:  http://www.vultr.com/?ref=6920741-3B  
 
-
-
-286964c27d1ed21baa28a276a56eddc453da3fba
+ 
 
 Step 2: Login Vultr  
 
-Click here   http://www.vultr.com
+Click here   http://www.vultr.com/?ref=6920741-3B  
+
 
 
 Then Click below One-Click deploy OpenVPN 
@@ -78,8 +77,8 @@ For IPv6 clients - no IPv6 traffic is routed through the OpenVPN app. If you con
 OpenVPN controls the DNS settings of each connected client computer. By default, the DNS servers of your OpenVPN server are used. You can change this behavior in the AS control panel ( https://[SERVER_IP]:943/admin/vpn_settings ).
 When connected to your OpenVPN server, all of your IPv4 internet traffic passes through it. Therefore, your internet download/upload speeds will be slower than normal.
 (You can log into this system with an SSH client using the root login found on your Vultr control panel.)
+
 About Vultr Applications
 
 Vultr applications use modern releases of software packages. Applications are configured to be deployed with specific versions of software. Over time, the Vultr team will update the application offerings to include newer operating systems, package versions, etc. This document only provides up-to-date information about the latest version of this application. Vultr applications are updated without notice. If you plan to build a project or infrastructure based on our application templates, we recommend taking a snapshot of the application used in your initial deployment.
-943956_2143472482457726_7628087932144992244_n
-%e5%9b%be%e5%83%8f-3333
+ 
