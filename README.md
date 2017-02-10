@@ -78,6 +78,7 @@ OpenVPN controls the DNS settings of each connected client computer. By default,
 When connected to your OpenVPN server, all of your IPv4 internet traffic passes through it. Therefore, your internet download/upload speeds will be slower than normal.
 (You can log into this system with an SSH client using the root login found on your Vultr control panel.)
 
+
 About Vultr Applications
 
 Vultr applications use modern releases of software packages. Applications are configured to be deployed with specific versions of software. Over time, the Vultr team will update the application offerings to include newer operating systems, package versions, etc. This document only provides up-to-date information about the latest version of this application. Vultr applications are updated without notice. If you plan to build a project or infrastructure based on our application templates, we recommend taking a snapshot of the application used in your initial deployment.
